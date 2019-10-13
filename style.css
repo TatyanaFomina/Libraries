@@ -1,0 +1,11 @@
+.carousel-inner {
+    display: block;
+    height: 500px;
+    width: 1000px;
+    background: black;
+}
+video {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
